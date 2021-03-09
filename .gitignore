@@ -58,7 +58,6 @@ typings/
 .env
 
 .DS_Store
-lib/
 .idea/*
 .idea/vcs.xml
 *.xml
